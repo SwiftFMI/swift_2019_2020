@@ -1,3 +1,4 @@
 [submodule "SwiftLectures"]
 	path = SwiftLectures
 	url = https://github.com/SwiftFMI/SwiftLectures.git
+	branch = master
