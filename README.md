@@ -6,6 +6,8 @@
 
 [YouTube Stream](https://youtu.be/_qTlOYqaYZ4) на 02.04.2020 от 18:05
 
+Предходни [лекции](https://www.youtube.com/channel/UCTAtdIjPsC0N4G2I56yLttw/videos).
+
 Ще се опитаме да споделим видеа, в които разглеждаме материал от курса тук. За съжаление това отнема малко повече време и подготовка.
 
 # Hackaton
