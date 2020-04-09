@@ -6,7 +6,10 @@
 
 [YouTube Stream](https://youtu.be/_qTlOYqaYZ4) на 02.04.2020 от 18:05
 
-Предходни [лекции](https://www.youtube.com/channel/UCTAtdIjPsC0N4G2I56yLttw/videos).
+Предходни:
+[Програмиране със Swift: Протоколи, Разширения, Изброени типове](https://youtu.be/_qTlOYqaYZ4)
+[Програмиране със Swift: Класове](https://youtu.be/uA78R2F39DQ)
+[Програмиране със Swift: Структори](https://youtu.be/EbAJvNI_-CM)
 
 Ще се опитаме да споделим видеа, в които разглеждаме материал от курса тук. За съжаление това отнема малко повече време и подготовка.
 
