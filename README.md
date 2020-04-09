@@ -4,7 +4,7 @@
 
 # Лекции, докато ФМИ не може да се посещатава
 
-[YouTube Stream](https://youtu.be/_qTlOYqaYZ4) на 02.04.2020 от 18:05
+[YouTube Stream](https://youtu.be/h0G21LmUoPc) на 09.04.2020 от 18:00.
 
 Предходни:  
 [Програмиране със Swift: Протоколи, Разширения, Изброени типове](https://youtu.be/_qTlOYqaYZ4)  
