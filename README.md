@@ -4,9 +4,10 @@
 
 # Лекции, докато ФМИ не може да се посещатава
 
-[YouTube Stream](https://youtu.be/h0G21LmUoPc) на 09.04.2020 от 18:00.
+[YouTube Stream](https://youtu.be/7yquCtt6fsw) на 16.04.2020 от 18:00.  
 
 Предходни:  
+[Програмиране със Swift: Клоужъри (Closures)](https://youtu.be/h0G21LmUoPc)  
 [Програмиране със Swift: Протоколи, Разширения, Изброени типове](https://youtu.be/_qTlOYqaYZ4)  
 [Програмиране със Swift: Класове](https://youtu.be/uA78R2F39DQ)  
 [Програмиране със Swift: Структори](https://youtu.be/EbAJvNI_-CM)  
