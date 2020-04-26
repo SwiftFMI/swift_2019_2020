@@ -10,9 +10,16 @@
 
 # Лекции, докато ФМИ не може да се посещатава
 
-[YouTube Stream](https://youtu.be/_qTlOYqaYZ4) на 02.04.2020 от 18:05
+[YouTube Stream]() на 30.04.2020 от 18:00.  
 
-Предходни [лекции](https://www.youtube.com/channel/UCTAtdIjPsC0N4G2I56yLttw/videos).
+
+Предходни:  
+[Програмиране със Swift: Шаблони](https://youtu.be/vSIbhH9OYxE) на 23.04.2020 от 18:10.  
+[Програмиране със Swift: Управление на памет](https://youtu.be/7yquCtt6fsw) на 16.04.2020 от 18:00.  
+[Програмиране със Swift: Клоужъри (Closures)](https://youtu.be/h0G21LmUoPc)  
+[Програмиране със Swift: Протоколи, Разширения, Изброени типове](https://youtu.be/_qTlOYqaYZ4)  
+[Програмиране със Swift: Класове](https://youtu.be/uA78R2F39DQ)  
+[Програмиране със Swift: Структори](https://youtu.be/EbAJvNI_-CM)  
 
 Ще се опитаме да споделим видеа, в които разглеждаме материал от курса тук. За съжаление това отнема малко повече време и подготовка.
 
