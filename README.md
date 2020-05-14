@@ -10,7 +10,7 @@
 
 # Лекции, докато ФМИ не може да се посещатава
 
-[YouTube Stream](https://youtu.be/ZHQY3qi_Zx8) на 30.04.2020 от 18:00.  
+[YouTube Stream](https://youtu.be/qhT0b7D0TY4) на 15.05.2020 от 18:10.
 
 
 Предходни:  
