@@ -10,10 +10,13 @@
 
 # Лекции, докато ФМИ не може да се посещатава
 
-[YouTube Stream](https://youtu.be/qhT0b7D0TY4) на 15.05.2020 от 18:10.
+
+[YouTube Stream](https://youtu.be/eXbE7Mn-umg) на 21.05.2020 от 18:10.
 
 
-Предходни:  
+
+Предходни: 
+[Програмиране със Swift: SwiftPackageManager 1](https://youtu.be/qhT0b7D0TY4) на 15.05.2020 от 18:10. 
 [Програмиране със Swift: Шаблони](https://youtu.be/vSIbhH9OYxE) на 23.04.2020 от 18:10.  
 [Програмиране със Swift: Управление на памет](https://youtu.be/7yquCtt6fsw) на 16.04.2020 от 18:00.  
 [Програмиране със Swift: Клоужъри (Closures)](https://youtu.be/h0G21LmUoPc)  
