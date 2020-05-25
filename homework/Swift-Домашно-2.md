@@ -113,6 +113,10 @@
     class List<T> {
         var value: T
         var next: List<T>?
+        
+        init(_ items: Any...) {
+            //
+        }
     }
 
     extension List {
